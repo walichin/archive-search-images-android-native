@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Busqueda de Fichas</string>
+
+    <string name="card_search_activity_label">Busqueda de Fichas</string>
+    <string name="card_detail_activity_label">Detalle de la Ficha</string>
+    <string name="card_list_activity_label">Lista de Fichas</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="image_button_content_description">Change state of section</string>
+</resources>
